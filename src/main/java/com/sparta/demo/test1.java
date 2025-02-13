@@ -5,4 +5,6 @@ public class test1 {
    int testtest=777;
    int bacdk = 44444442;
 
+   int lastofus=777777777;
+
 }
